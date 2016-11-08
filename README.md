@@ -2,14 +2,47 @@
 
 :point_right: :star2: delightful macOS resources for your touchbar
 
+follow me on [twitter](https://twitter.com/TheMightyCraken) or check out my [medium](https://medium.com/@ZakRidouh)!
+
+thanks!
+
 ---
 
 ## Table of Contents:
 
-* [Games]()
+* [Games](#games)
 
-* [Demo Apps]()
+* [Demos](#demos)
+
+* [Utility](#util)
+
+* [Productivity](#prod)
+
+* [Fun](#fun)
 
 ---
 
+### Games:
+
+* [ ]()
+
+
+### Demos:
+
+* [TouchBar Demo App](https://github.com/bikkelbroeders/TouchBarDemoApp) - Demo how the touchbar works on your iPad!
+
+
+### Utility:
+* [ ]()
+
+### Productivity:
+* [ ]()
+
+### Fun:
+* [touchbar_nyancat](https://github.com/avatsaev/touchbar_nyancat) - watch nyancat fly across your touchbar!
+
+
+---
+
+Want to add anything? Open an issue! (or even better, a PR! :smile:)
 
