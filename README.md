@@ -40,6 +40,9 @@ thanks!
 
 ### Fun:
 * [touchbar_nyancat](https://github.com/avatsaev/touchbar_nyancat) - watch nyancat fly across your touchbar!
+* [SL on touch bar](https://github.com/NeoCat/sl_on_touchbar) - Run the SL on the touch bar of your MacBook Pro!
+* [TouchBar Santa](https://github.com/airbyte/touchbar_santa) - Santa Claus is coming to your Touch Bar
+* [Touch Bar Bar](https://github.com/guidouil/TouchBarBar) - A bar app for the new Macbook Pro's Touch Bar
 
 
 ---
