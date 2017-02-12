@@ -37,7 +37,7 @@ thanks!
 * [ ]()
 
 ### Productivity:
-* [ ]()
+* [Muse spotify controller](https://github.com/xzzz9097/Muse) - An open-source Spotify controller with TouchBar support
 
 ### Fun:
 * [touchbar_nyancat](https://github.com/avatsaev/touchbar_nyancat) - watch nyancat fly across your touchbar!
