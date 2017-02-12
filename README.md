@@ -24,7 +24,8 @@ thanks!
 
 ### Games:
 
-* [ ]()
+* [TouchBarDino](https://github.com/yuhuili/TouchBarDino) - Chrome dinosaur game on Touch Bar
+* [Touch Bar Space Fight](https://github.com/insidegui/TouchBarSpaceFight) - A simple, fun game for the MacBook Pro's Touch Bar
 
 
 ### Demos:
