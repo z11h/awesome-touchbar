@@ -30,8 +30,8 @@ thanks!
 
 ### Demos:
 
+* [TouchBar Cheatsheet](https://github.com/loretoparisi/touchbar) - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples
 * [TouchBar Demo App](https://github.com/bikkelbroeders/TouchBarDemoApp) - Demo how the touchbar works on your iPad!
-
 
 ### Utility:
 * [ ]()
