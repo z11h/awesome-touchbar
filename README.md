@@ -28,14 +28,17 @@ thanks!
 
 ### Demos:
 
+* [TouchBar Cheatsheet](https://github.com/loretoparisi/touchbar) - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples
 * [TouchBar Demo App](https://github.com/bikkelbroeders/TouchBarDemoApp) - Demo how the touchbar works on your iPad!
 
 
 ### Productivity:
+
 * [Muse spotify controller](https://github.com/xzzz9097/Muse) - An open-source Spotify controller with TouchBar support
 ![Muse spotify controller](screenshots/Muse.png)
 
 ### Fun:
+
 * [touchbar_nyancat](https://github.com/avatsaev/touchbar_nyancat) - watch nyancat fly across your touchbar!
 * [SL on touch bar](https://github.com/NeoCat/sl_on_touchbar) - Run the SL on the touch bar of your MacBook Pro!
 ![SL on touch bar](screenshots/sl.png)
