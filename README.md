@@ -34,7 +34,7 @@ thanks!
 * [TouchBar Demo App](https://github.com/bikkelbroeders/TouchBarDemoApp) - Demo how the touchbar works on your iPad!
 
 ### Utility:
-* [ ]()
+* [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)
 
 ### Productivity:
 * [Muse spotify controller](https://github.com/xzzz9097/Muse) - An open-source Spotify controller with TouchBar support
