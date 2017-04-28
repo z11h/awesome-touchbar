@@ -2,7 +2,7 @@
 
 :point_right: :star2: delightful macOS resources for your touchbar
 
-follow me on [twitter](https://twitter.com/TheMightyCraken) or check out my [medium](https://medium.com/@ZakRidouh)!
+follow me on [twitter](https://twitter.com/zakrid10) or check out my [medium](https://medium.com/@ZakRid)!
 
 thanks!
 
