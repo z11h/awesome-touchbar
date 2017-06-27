@@ -14,37 +14,42 @@ thanks!
 
 * [Demos](#demos)
 
-* [Utility](#util)
+* [Utility](#utility)
 
-* [Productivity](#prod)
+* [Productivity](#productivity)
 
 * [Fun](#fun)
 
+* [Dev](#developer)
 ---
 
 ### Games:
 
-* [TouchBarDino](https://github.com/yuhuili/TouchBarDino) - Chrome dinosaur game on Touch Bar
-* [Touch Bar Space Fight](https://github.com/insidegui/TouchBarSpaceFight) - A simple, fun game for the MacBook Pro's Touch Bar
-
+* [TouchBarDino](https://github.com/yuhuili/TouchBarDino) - Chrome dinosaur game on Touch Bar!
+* [Touch Bar Space Fight](https://github.com/insidegui/TouchBarSpaceFight) - A simple, fun game for the MacBook Pro's Touch Bar!
 
 ### Demos:
 
-* [TouchBar Cheatsheet](https://github.com/loretoparisi/touchbar) - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples
+* [TouchBar Cheatsheet](https://github.com/loretoparisi/touchbar) - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples!
 * [TouchBar Demo App](https://github.com/bikkelbroeders/TouchBarDemoApp) - Demo how the touchbar works on your iPad!
 
 ### Utility:
-* [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)
+* [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)!
 
 ### Productivity:
-* [Muse spotify controller](https://github.com/xzzz9097/Muse) - An open-source Spotify controller with TouchBar support
+* [Muse spotify controller](https://github.com/xzzz9097/Muse) - An open-source Spotify controller with TouchBar support!
+* [iTunesTouch](https://github.com/jonathanrauch/iTunesTouch) - Displays the currently playing track in the TouchBar!
+
 
 ### Fun:
 * [touchbar_nyancat](https://github.com/avatsaev/touchbar_nyancat) - watch nyancat fly across your touchbar!
 * [SL on touch bar](https://github.com/NeoCat/sl_on_touchbar) - Run the SL on the touch bar of your MacBook Pro!
-* [TouchBar Santa](https://github.com/airbyte/touchbar_santa) - Santa Claus is coming to your Touch Bar
-* [Touch Bar Bar](https://github.com/guidouil/TouchBarBar) - A bar app for the new Macbook Pro's Touch Bar
+* [TouchBar Santa](https://github.com/airbyte/touchbar_santa) - Santa Claus is coming to your Touch Bar!
+* [Touch Bar Bar](https://github.com/guidouil/TouchBarBar) - A bar app for the new Macbook Pro's Touch Bar!
+* [ten-hour-video-touchbar](https://github.com/jxom/ten-hour-video-touchbar) - A pointless mac touch bar app which gives you a random 10 hour video upon each request!
 
+### Developer:
+* [TouchBarLauncher](https://github.com/zats/TouchBarLauncher) - Touch Bar simulator launcher. Requires Xcode 8.1 and macOS 10.12.1!
 
 ---
 
