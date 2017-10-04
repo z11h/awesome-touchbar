@@ -40,6 +40,7 @@ thanks!
 ### Productivity:
 * [Muse spotify controller](https://github.com/xzzz9097/Muse) - An open-source Spotify controller with TouchBar support!
 * [iTunesTouch](https://github.com/jonathanrauch/iTunesTouch) - Displays the currently playing track in the TouchBar!
+* [TouchSwitcher](https://hazeover.com/touchswitcher.html) - Puts the ⌘+Tab application menu switcher into your Touch Bar!
 
 
 ### Fun:
