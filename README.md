@@ -42,7 +42,7 @@ thanks!
 * [Muse spotify controller](https://github.com/xzzz9097/Muse) - An open-source Spotify controller with TouchBar support!
 * [iTunesTouch](https://github.com/jonathanrauch/iTunesTouch) - Displays the currently playing track in the TouchBar!
 * [TouchSwitcher](https://hazeover.com/touchswitcher.html) - Puts the ⌘+Tab application menu switcher into your Touch Bar!
-
+* [WriteBar](//writebar.js.org) - Distraction-free text editor, that displays focus text line right over the keyboard!
 
 ### Fun:
 * [touchbar_nyancat](https://github.com/avatsaev/touchbar_nyancat) - watch nyancat fly across your touchbar!
