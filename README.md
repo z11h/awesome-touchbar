@@ -38,6 +38,8 @@ thanks!
 * [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)!
 * [BetterTouchTool](https://www.boastr.net/) - BetterTouchTool lets you create your own application-specific shortcuts on the MacbookPro TouchBar.
 * [Pock](http://pock.pigigaldi.com) - Pock. Display macOS Dock in Touch Bar.
+* [karma-touchbar-reporter](https://github.com/cyco/karma-touchbar-reporter) - Display karma test results on the Touch Bar.
+
 
 ### Productivity:
 * [Muse spotify controller](https://github.com/xzzz9097/Muse) - An open-source Spotify controller with TouchBar support!
@@ -55,6 +57,7 @@ thanks!
 
 ### Developer:
 * [TouchBarLauncher](https://github.com/zats/TouchBarLauncher) - Touch Bar simulator launcher. Requires Xcode 8.1 and macOS 10.12.1!
+* [TouchBarRecorder](https://github.com/cyco/touchbar-recorder) - A simple command line tool to record videos of your Touch Bar.
 
 ---
 
