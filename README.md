@@ -55,6 +55,7 @@ thanks!
 
 ### Developer:
 * [TouchBarLauncher](https://github.com/zats/TouchBarLauncher) - Touch Bar simulator launcher. Requires Xcode 8.1 and macOS 10.12.1!
+* [TouchBarRecorder](https://github.com/cyco/touchbar-recorder) - A simple command line tool to record videos of your Touch Bar.
 
 ---
 
