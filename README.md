@@ -54,7 +54,7 @@ thanks!
 * [TouchBar Santa](https://github.com/airbyte/touchbar_santa) - Santa Claus is coming to your Touch Bar!
 * [Touch Bar Bar](https://github.com/guidouil/TouchBarBar) - A bar app for the new Macbook Pro's Touch Bar!
 * [ten-hour-video-touchbar](https://github.com/jxom/ten-hour-video-touchbar) - A pointless mac touch bar app which gives you a random 10 hour video upon each request!
-* [TouchFart](https://github.com/hungtruong/TouchFart)
+* [TouchFart](https://github.com/hungtruong/TouchFart) - A fart app for the new Macbook Pro's Touch Bar.
 
 ### Developer:
 * [TouchBarLauncher](https://github.com/zats/TouchBarLauncher) - Touch Bar simulator launcher. Requires Xcode 8.1 and macOS 10.12.1!
