@@ -55,7 +55,7 @@ thanks!
 * [Touch Bar Bar](https://github.com/guidouil/TouchBarBar) - A bar app for the new Macbook Pro's Touch Bar!
 * [ten-hour-video-touchbar](https://github.com/jxom/ten-hour-video-touchbar) - A pointless mac touch bar app which gives you a random 10 hour video upon each request!
 * [TouchFart](https://github.com/hungtruong/TouchFart) - A fart app for the new Macbook Pro's Touch Bar.
-
+* [Knight TouchBar 2000](https://github.com/AkdM/KnightTouchBar2000) - KITT 2000 chaser animation for your new MacBook Pro TouchBar.
 ### Developer:
 * [TouchBarLauncher](https://github.com/zats/TouchBarLauncher) - Touch Bar simulator launcher. Requires Xcode 8.1 and macOS 10.12.1!
 * [TouchBarRecorder](https://github.com/cyco/touchbar-recorder) - A simple command line tool to record videos of your Touch Bar.
