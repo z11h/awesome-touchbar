@@ -28,6 +28,8 @@ thanks!
 * [TouchBarDino](https://github.com/yuhuili/TouchBarDino) - Chrome dinosaur game on Touch Bar!
 * [Touch Bar Space Fight](https://github.com/insidegui/TouchBarSpaceFight) - A simple, fun game for the MacBook Pro's Touch Bar!
 * [Touch Bar Pong](https://github.com/ferdinandl007/TouchBarPong) - A modern adaptation of the classic Atari Pong game, right in your Touch Bar!
+* [Touch Bar Gopher](https://github.com/Lancerchiang/TouchBarGopher) - A "Whack-a-gopher" game on Touch Bar!
+* [Touch Bar Flappy Birds](https://github.com/Jun0413/touchbar-flappy-bird) - An simplified adaptation of flappy bird on Touch Bar!
 
 ### Demos:
 
