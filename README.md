@@ -64,6 +64,7 @@ thanks!
 * [touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
 * [TouchBarLauncher](https://github.com/zats/TouchBarLauncher) - Touch Bar simulator launcher. Requires Xcode 8.1 and macOS 10.12.1!
 * [TouchBarRecorder](https://github.com/cyco/touchbar-recorder) - A simple command line tool to record videos of your Touch Bar.
+* [fish-apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your Touch Bar in iTerm2 using [fish](https://fishshell.com).
 
 ---
 
