@@ -39,7 +39,7 @@ thanks!
 ### Utility:
 * [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)!
 * [BetterTouchTool](https://www.boastr.net/) - BetterTouchTool lets you create your own application-specific shortcuts on the MacbookPro TouchBar.
-* [Pock](http://pock.pigigaldi.com) - Pock. Display macOS Dock in Touch Bar.
+* [Pock](https://pock.dev/) - Pock. Display macOS Dock in Touch Bar.
 * [karma-touchbar-reporter](https://github.com/cyco/karma-touchbar-reporter) - Display karma test results on the Touch Bar.
 * [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) - MTMR lets you configure your own touchbar like you want.
 
