@@ -41,6 +41,7 @@ enjoy :)
 * [karma-touchbar-reporter](https://github.com/cyco/karma-touchbar-reporter) - Display karma test results on the Touch Bar.
 * [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) - MTMR lets you configure your own touchbar like you want.
 * [touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
+* [Native Touchbar Addon](https://github.com/viktorstrate/native-touchbar-addon) - Browser addon that adds native macOS touchbar controls to webpages.
 
 ### Productivity:
 * [Muse spotify controller](https://github.com/xzzz9097/Muse) - An open-source Spotify controller with TouchBar support!
