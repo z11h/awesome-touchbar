@@ -57,6 +57,7 @@ enjoy :)
 * [ten-hour-video-touchbar](https://github.com/jxom/ten-hour-video-touchbar) - A pointless mac touch bar app which gives you a random 10 hour video upon each request!
 * [TouchFart](https://github.com/hungtruong/TouchFart) - A fart app for the new Macbook Pro's Touch Bar.
 * [Touch Bar Lemmings](https://github.com/erikolsson/Touch-Bar-Lemmings) - Lemmings in the Touch Bar!
+* [nyan-touchbar](https://github.com/lahoal/nyan-touchbar) - BetterTouchTool plugin: a Nyan Cat that changes accessories based on what you're doing (music, terminal, calls, battery, late night).
 
 ### Developer:
 * [touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
